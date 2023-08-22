@@ -1,6 +1,6 @@
 @extends('layouts.index')
 
-@section('title', 'Page Title')
+@section('title', 'Index')
 
 @section('content')
     <p>This is my body content.</p>
